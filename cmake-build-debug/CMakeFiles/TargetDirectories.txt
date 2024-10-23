@@ -1,0 +1,3 @@
+C:/Users/aguil/CLionProjects/ejercicios-aed2/cmake-build-debug/CMakeFiles/ejercicios_aed2.dir
+C:/Users/aguil/CLionProjects/ejercicios-aed2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aguil/CLionProjects/ejercicios-aed2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
